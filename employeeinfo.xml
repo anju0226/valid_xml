@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Employee_Info
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="employeeinfo.xsd">
+
+ <Employee  Employee_Number="0226">
+   <Name>Anju shahi</Name>
+    <Department>Design</Department>
+    <Telephone>980586224</Telephone>
+    <Email>anju.shahi@deerwalk.edu.np</Email>
+  </Employee>
+
+  <Employee  Employee_Number="0220">
+    <Name>Sagar giri</Name>
+    <Department>Grails back end</Department>
+    <Telephone>9807895245</Telephone>
+    <Email>sagar.giri@deerwalk.edu.np</Email>
+  </Employee>
+</Employee_Info>

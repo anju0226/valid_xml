@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NEWSPAPER SYSTEM "Newspaper.dtd">
+<NEWSPAPER>
+    <ARTICLE AUTHOR = "Anju" EDITOR = "SAGAR" DATE = "30/11/2015">
+        <HEADLINE>Miss Earth India apologises to Nepal for 'hurting sentiments</HEADLINE>
+        <BYLINE>Sarah</BYLINE>
+        <LEAD>THE HIMALAYAN TIMES</LEAD>
+
+        <BODY>
+        Aaital Khosla, Miss Earth India, 2015, has apologised to Nepal for hurting the nation and its people, days after the controversial video that was uploaded as a part of the promotional campaign for Miss Earth International, 2015.
+        </BODY>
+
+        <NOTES>source = "bbcnews.com"</NOTES>
+    </ARTICLE>
+
+    <ARTICLE AUTHOR = "SAMJHANA" DATE = "30/11/2015">
+        <HEADLINE>Russian air strikes kill at least 18 in northwest</HEADLINE>
+        <BYLINE>sam</BYLINE>
+        <LEAD>THE HIMALAYAN TIMES</LEAD>
+        <BODY>Air strikes believed to have been carried out by Russian jets killed at least 18 people and wounded dozens more in the town of Ariha in northwest Syria on Sunday, the Syrian Observatory for Human Rights reported.</BODY>
+
+        <NOTES>Source = "cnews24.com.np"</NOTES>
+    </ARTICLE>
+    
+</NEWSPAPER>
+
+
+
+
+
+
+
+

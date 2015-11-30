@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipies collection "collection.dtd">
+<collection>
+   <description>Healthy breakfast recipies</description>
+   <recipe>
+   <title>cornflakes with milk and honey</title>
+   <ingredient name = "cornflakes" amount = "100 grams">
+   <ingredient name = "milk" amount = "200 ml">
+   <ingredient name = "honey" amount = "two tablespoon">
+   <preparation>
+   <step>Bring milk to boil</step>
+   <step>add cornflakes and honey to the milk</step> 
+   <preparation>
+
+   <nutrition  protein = "20" carbohydrates = "100" fat = "0" calories = "200">
+   </recipie>
+
+</collection>
